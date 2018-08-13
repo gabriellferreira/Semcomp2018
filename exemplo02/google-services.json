@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1039515464451",
+    "firebase_url": "https://havedadoathome.firebaseio.com",
+    "project_id": "havedadoathome",
+    "storage_bucket": "havedadoathome.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039515464451:android:6db6b264ab957155",
+        "android_client_info": {
+          "package_name": "br.com.havedadoathome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039515464451-hqb1dlqr3qs9qpkdpnji2sdc7s9jl5v9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.havedadoathome",
+            "certificate_hash": "a96afc97f82242c4f3873819b5a4e434534be06e"
+          }
+        },
+        {
+          "client_id": "1039515464451-4gbi3t399e6n848qlltq1vhcs8iqjbpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO8opHqRRt3hf-zWEZiaKw_5pE9PqKaPg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039515464451-4gbi3t399e6n848qlltq1vhcs8iqjbpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

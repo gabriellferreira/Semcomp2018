@@ -1,0 +1,26 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/news_swipe"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/numero_sorteado"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:textSize="180sp"
+        android:gravity="center"
+        tools:text="17"
+        android:background="@drawable/background_circular"/>
+
+
+    <Button
+        android:id="@+id/botao_sortear"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/numero_sorteado"
+        android:text="Sortear"/>
+
+</RelativeLayout>
